@@ -75,7 +75,10 @@ public class Main {
         }
 
         System.out.println(":)");
+        System.out.println("...");
+        System.out.println("این برنامه تا ۱۶ فاکتوریل را بیشتر نمی تواند حساب کند!");
 
 
     }
+
 }
